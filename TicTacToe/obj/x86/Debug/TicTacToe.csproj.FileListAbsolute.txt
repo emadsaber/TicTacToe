@@ -1,0 +1,7 @@
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.frmMain.resources
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\emad.saber\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
